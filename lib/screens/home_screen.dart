@@ -14,6 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: Theme.of(context).scaffoldBackgroundColor,
       body: Column(
         children: [
+          //Flexible() : 전체 화면에서 비율 설정 가능
           Flexible(
             flex: 1,
             child: Container(
