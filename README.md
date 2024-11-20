@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## 니꼬쌤 Flutter로 웹툰 앱 만들기 강의 중
+## POMODORO APP 개발 파트
+=> Code Challenge 완료
+![image](https://github.com/user-attachments/assets/76284a2b-93e4-45dd-a41a-26aae757fff5)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
